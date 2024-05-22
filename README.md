@@ -1,4 +1,4 @@
-## Bachelor of Computer Application Final Year Project :- 𝐒𝐡𝐫𝐞𝐞 𝐋𝐨𝐠𝐢𝐬𝐭𝐢𝐜𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦
+# Bachelor of Computer Application Final Year Project :- 𝐒𝐡𝐫𝐞𝐞 𝐋𝐨𝐠𝐢𝐬𝐭𝐢𝐜𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦
 Student under Mangalore University alumnus equipped with expertise in Android and programming languages. We Developed The "𝐒𝐡𝐫𝐞𝐞 𝐋𝐨𝐠𝐢𝐬𝐭𝐢𝐜𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦" project using Android Studio, Firebase, XML. 
 We developed the user friendly and responsive App.
 
